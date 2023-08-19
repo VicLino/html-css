@@ -3,4 +3,4 @@
 
 Estou aprendendo a criar sites com o curso em video, então... Pega o guanabara e vem!
 
-<a href="https://victorlaus.github.io/html-css/Exercicios/ex001/index.html">Executar o exercício 001 </a>
+<a href="https://victorlaus.github.io/html-css/Exercicios/ex001/index.html">Exercutar exercicio</a>
