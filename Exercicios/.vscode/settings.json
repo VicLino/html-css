@@ -1,3 +1,4 @@
 {
-    "editor.colorDecorators": true
+    "editor.colorDecorators": true,
+    "liveServer.settings.port": 5501
 }
